@@ -1,4 +1,4 @@
-from md.mdunits import MDUnits
+from dgeneration.md.mdunits import MDUnits
 import torch
 from ase import Atoms
 

@@ -1,4 +1,4 @@
-from md.mdunits import MDUnits
+from dgeneration.md.mdunits import MDUnits
 from ase.calculators.espresso import Espresso
 from ase.calculators.emt import EMT
 from ase.db import connect
